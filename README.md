@@ -16,7 +16,7 @@ href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercont
 
 # 📖 Top Langs
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hungchannels123&text_color=daf7dc&bg_color=151515)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NgHuyZzZ&text_color=daf7dc&bg_color=151515)
 # 🤝🏻 Connect with Me
 <p align="center">
 
