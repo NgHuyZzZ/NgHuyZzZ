@@ -11,8 +11,8 @@ href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercont
 
 # Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=hungchannels123&include_all_commits=true&count_private=true&show_icons=true&custom_title=hungchannels123&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt = "Github Stats" >
-<img src="http://github-readme-streak-stats.herokuapp.com/?user=hungchannels123&theme=neon-palenight" alt = "Github Streak" >
+<img src="https://github-readme-stats.vercel.app/api?username=NgHuyZzZ&include_all_commits=true&count_private=true&show_icons=true&custom_title=NgHuyZzZ&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt = "Github Stats" >
+<img src="http://github-readme-streak-stats.herokuapp.com/?user=NgHuyZzZ&theme=neon-palenight" alt = "Github Streak" >
 
 # 📖 Top Langs
 
